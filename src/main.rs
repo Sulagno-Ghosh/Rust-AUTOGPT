@@ -1,3 +1,10 @@
 fn main() {
-    println!("Hello, world!");
+    
+    for n in 1..6{
+        println!("Hello, world! {}", n);
+    }
+
+    
+
+     
 }
