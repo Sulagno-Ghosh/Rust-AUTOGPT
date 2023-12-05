@@ -3,7 +3,7 @@ fn add_two_integers(a: i32, b: i32) -> i32 {
 }
 
 fn subtract(a: i32, b: i32) -> i32 {
-    a - b
+    a * b
 }
 
 fn multiply(a: i32, b: i32) -> i32 {
