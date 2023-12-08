@@ -11,8 +11,11 @@ fn multiply(a: i32, b: i32) -> i32 {
 }
 
 fn divide(a: i32, b: i32) -> i32 {
-    a * b
+    a / b
 }
+
+
+
 
 fn main() {
     let result = add_two_integers(5, 7);
