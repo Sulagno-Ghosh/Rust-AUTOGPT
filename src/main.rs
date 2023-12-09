@@ -14,9 +14,6 @@ fn divide(a: i32, b: i32) -> i32 {
     a / b
 }
 
-
-
-
 fn main() {
     let result = add_two_integers(5, 7);
     let result1: i32 = subtract(5, 7);
