@@ -15,7 +15,7 @@ fn divide(a: i32, b: i32) -> i32 {
 }
 
 fn subtract_three_integers(a: i32, b: i32, c: i32) -> i32 {
-    a - b - c
+    a - b + c
 }
 
 fn main() {
